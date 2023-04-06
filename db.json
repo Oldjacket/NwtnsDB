@@ -1,4 +1,5 @@
-[
+{
+  "result": [
     {
       "title": "Hey Flutterers, See what I did with Flutter",
       "content": "This is just a text description of the item",
@@ -65,4 +66,5 @@
       "color": "Random().nextInt(5)",
       "image": "https://picsum.photos/325?random"
     }
-]
+  ]
+}
